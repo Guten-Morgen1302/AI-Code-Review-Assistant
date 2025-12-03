@@ -541,7 +541,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - Webhook delivery can be delayed during GitHub outages
 - Safari WebSocket connection occasionally needs refresh
 
-See [Issues](https://github.com/yourusername/ai-code-review-assistant/issues) for full list.
+See [Issues](https://github.com/Guten-Morgen1302/AI-Code-Review-Assistant/issues) for full list.
 
 ## 📚 Documentation
 
@@ -559,15 +559,6 @@ See [Issues](https://github.com/yourusername/ai-code-review-assistant/issues) fo
 - Redis connections use TLS in production
 - CORS configured for allowed origins only
 
-Found a security issue? Please email security@yourcompany.com instead of opening a public issue.
-
-## 💰 Costs
-
-Estimated monthly costs for 100 PRs/day:
-- OpenAI API: ~$50-100
-- Redis Cloud: $10-30
-- MongoDB Atlas: $0-25 (free tier available)
-- Hosting: $20-50
 
 ## 📝 License
 
