@@ -3,7 +3,7 @@ This project is currently under active development. The repository contains prot
 
 # AI Code Review Assistant - Complete Project Structure
 
-## 📁 Recommended Folder Structure
+## 📁 Folder Structure
 
 ```
 ai-code-review-assistant/
@@ -269,6 +269,7 @@ GitHub Webhook → Backend API → AI Review Service → OpenAI GPT-4
                       ↓
                 React Dashboard
 ```
+<img width="1671" height="458" alt="image" src="https://github.com/user-attachments/assets/177cb4e6-1744-4f87-8488-3c70f4c0e915" />
 
 **Key Components:**
 - **Webhook Handler**: Receives GitHub events in real-time
